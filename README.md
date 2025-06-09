@@ -1,46 +1,36 @@
-# 👋 Hi, I'm Marcelo Napoleão (marcelonap)
+# 👋 Hi, I'm Marcelo Napoleão
 
-**Android & iOS Developer • Embedded Systems Enthusiast • Backend Explorer**
+**Mobile & Embedded Developer | Kotlin, Swift, C, FastAPI**
 
----
-
-## 🔧 What I Build
-
-- :contentReference[oaicite:1]{index=1}  
-  :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}  
-  :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}  
-
-- :contentReference[oaicite:6]{index=6}  
-  :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8}  
-
-- :contentReference[oaicite:9]{index=9}  
-  :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11}  
-
-- :contentReference[oaicite:12]{index=12}  
-  :contentReference[oaicite:13]{index=13} :contentReference[oaicite:14]{index=14}  
-  :contentReference[oaicite:15]{index=15} :contentReference[oaicite:16]{index=16}  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelonap&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs&count_private=true)
 
 ---
 
-## 🚀 Why It Matters
+## 🔧 Tech Stack
 
-:contentReference[oaicite:17]{index=17}
-
----
-
-## 📫 Let's Connect
-
-- ⭐ **GitHub:** @marcelonap  
-- :contentReference[oaicite:18]{index=18}  
-- :contentReference[oaicite:19]{index=19}
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![BLE](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![AWS Lightsail](https://img.shields.io/badge/AWS%20Lightsail-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Key Projects
 
-- :contentReference[oaicite:20]{index=20} :contentReference[oaicite:21]{index=21}  
-- :contentReference[oaicite:22]{index=22} :contentReference[oaicite:23]{index=23}  
-- :contentReference[oaicite:24]{index=24} :contentReference[oaicite:25]{index=25}  
-- :contentReference[oaicite:26]{index=26} :contentReference[oaicite:27]{index=27}  
+- 🔹 **BLE OTA Firmware Updater** – Native Android/iOS, praised in agriculture industry  
+- 🔹 **FastAPI AI Server** – OpenAI-integrated backend for contextual tutoring  
+- 🔹 **Embedded C Work** – Serial protocol expansion and firmware integrations  
 
+---
 
+## 📈 Activity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelonap&layout=compact&theme=tokyonight)
+
+---
+
+<!-- Optional: Add a personal footer -->
+_Always building where mobile meets hardware and AI._  
