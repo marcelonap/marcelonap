@@ -2,7 +2,7 @@
 
 **Mobile & Embedded Developer | Kotlin, Swift, C, FastAPI**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelonap&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=marcelonap&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -18,19 +18,10 @@
 
 ---
 
-## 📌 Key Projects
-
-- 🔹 **BLE OTA Firmware Updater** – Native Android/iOS, praised in agriculture industry  
-- 🔹 **FastAPI AI Server** – OpenAI-integrated backend for contextual tutoring  
-- 🔹 **Embedded C Work** – Serial protocol expansion and firmware integrations  
-
----
-
 ## 📈 Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelonap&layout=compact&theme=tokyonight)
 
 ---
 
-<!-- Optional: Add a personal footer -->
-_Always building where mobile meets hardware and AI._  
+
