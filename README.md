@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcelo Napoleão
 
-**Mobile & Embedded Developer | Kotlin, Swift, C, FastAPI**
+**Mobile & Embedded Developer | Kotlin, Swift, C++, Python, C#**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=marcelonap&theme=tokyonight&hide_border=true)
 
